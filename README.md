@@ -1,5 +1,5 @@
-## INTRODUCTION of deepmpi
-Exercise of MPI for deep leaning, mainly mpi for matrix multiplication.
+## INTRODUCTION
+Coursework of THE parallel and distributed system, implementing MPI for matrix multiplication.
 
 Install mpi(I use OpenMPI) on your machine, firstly. Then clone this repo and complie and run it by: 
 
